@@ -1,2 +1,2 @@
 # teatime
-Test your pop culture! 💅
+Test your pop culture! 
